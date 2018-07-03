@@ -7,7 +7,7 @@ const mongodb = require("mongodb");
 const path = require("path");
 const app = express();
 const routes = require("./routes");
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 
 
 // Configure body parser for AJAX requests

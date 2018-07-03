@@ -13,7 +13,7 @@
       "installDeps": "yarn && cd client && yarn"
     },
     "author": "Garth Smith",
-    "license": "",
+    "license": "ISC",
     "devDependencies": {
       "concurrently": "^3.5.0",
       "nodemon": "^1.11.0"
